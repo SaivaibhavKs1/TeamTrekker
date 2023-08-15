@@ -9,8 +9,7 @@ TeamTrekker is a web application based on Laravel which keeps track of employee 
 - CSS
 - JAVASCRIPT
 - BOOTSTRAP
-- PHP
-- LARAVEL
+- JAVA
 
 ## Demo
 <a href="http://ams.alihost.co">Demo link</a> 

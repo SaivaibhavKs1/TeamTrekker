@@ -1,8 +1,8 @@
-<p align="center"><a href="https://ams.aliatayee.com" target="_blank"><h1>Attendance Management System</h1></a></p>
+<p align="center"><a href="https://ams.aliatayee.com" target="_blank"><h1>TeamTrekker</h1></a></p>
 
-## About Attendance Management System
+## About TeamTrekker
 
-Attendance Management System is a web application based on Laravel which keeps track of employee hours. It is the system you use to document the time your employees work and the time they take off.
+TeamTrekker is a web application based on Laravel which keeps track of employee hours. It is the system you use to document the time your employees work and the time they take off.
 
 ## Major Technologies
 - HTML5
@@ -22,7 +22,7 @@ Attendance Management System is a web application based on Laravel which keeps t
 
 ### Install & Setup
 
-To setup and install Attendance Management System project, follow the below steps:
+To setup and install TeamTrekker project, follow the below steps:
 - Clone this project by the command: 
 
 ```
@@ -100,5 +100,5 @@ Give a ⭐️ if you like this project!
 
 ## Contributing
 
-Thank you for considering contributing to the attendance management system!.
+Thank you for considering contributing to the TeamTrekker!.
 
